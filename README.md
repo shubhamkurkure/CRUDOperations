@@ -1,3 +1,2 @@
-# Mitchell International Software Development Engineering Internship Coding Challenge
+# Mitchell International Software Development Engineering Internship
 CRUDOperations
-
